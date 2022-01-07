@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32790" started-at="2022-01-05T02:44:00Z" finished-at="2022-01-05T02:44:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32790" started-at="2022-01-05T02:44:00Z" finished-at="2022-01-05T02:44:33Z">
+      <class name="Testcases.junitex">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Testcases.junitex@c038203]" name="login" duration-ms="11027" started-at="2022-01-05T08:14:01Z" data-provider="excel" finished-at="2022-01-05T08:14:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[veldilakshmi1234@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Testcases.junitex@c038203]" name="login" duration-ms="12294" started-at="2022-01-05T08:14:12Z" data-provider="excel" finished-at="2022-01-05T08:14:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[naveenchowdaryvemuri@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Naveen@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Testcases.junitex@c038203]" name="login" duration-ms="8786" started-at="2022-01-05T08:14:24Z" data-provider="excel" finished-at="2022-01-05T08:14:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[surabhipravalikarao@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sweety@13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Testcases.junitex -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
